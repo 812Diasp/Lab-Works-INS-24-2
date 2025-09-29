@@ -1,0 +1,3 @@
+https://github.com/vberezina/computer-graphics-programming 
+
+Тут лабы по компьютерной графике
